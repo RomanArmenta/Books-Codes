@@ -8,4 +8,4 @@ All the codes for the problems in _Introduction to Quantum Monte Carlo_ by Tao.
 
 ## Deep_ml_challenges
 
-All the codes submitted for solving the [deep-ml](deep-ml.com) challenges.
+All the codes submitted for solving the [deep-ml.com](https://www.deep-ml.com) challenges.
